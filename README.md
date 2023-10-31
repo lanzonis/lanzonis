@@ -7,7 +7,7 @@
 <p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=70% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lanzonis&theme=radical&mode=weekly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lanzonis" alt="GitHub Streak" /></a>
  </div>
  
  &nbsp;
