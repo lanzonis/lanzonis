@@ -5,8 +5,6 @@
 
 
 <p align="center"></p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lanzonis&theme=synthwave)](https://git.io/streak-stats)
  </div>
  
  &nbsp;
